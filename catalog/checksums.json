@@ -1,0 +1,450 @@
+{
+  "algorithm": "SHA-256",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "art/cover-provenance.json",
+      "bytes": 266,
+      "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
+    },
+    {
+      "path": "art/cover.svg",
+      "bytes": 1928,
+      "sha256": "116059dcbebe718caf7392882c0393af3a2998a4b7b250502fbfabd82258e763"
+    },
+    {
+      "path": "art/hero.jpg",
+      "bytes": 285679,
+      "sha256": "a5cecd68fcee1c68ad56f1dd248dddb385b448491dfc1e51dd4254454f03a590"
+    },
+    {
+      "path": "art/illustration-source.png",
+      "bytes": 2554159,
+      "sha256": "b64659944ba99efdff6714f19b8a3a49736fa827cb6d86552c7f9511d08d7a46"
+    },
+    {
+      "path": "art/image-prompt.txt",
+      "bytes": 295,
+      "sha256": "c94ab4f732a144aa98c30069666c825b509d7f68089825e7c70dcd2e4d31d702"
+    },
+    {
+      "path": "art/raster-provenance.json",
+      "bytes": 500,
+      "sha256": "cb2790723c80460638a18d61916a5311eb5100f9bca19b97d3ab0d7166ee7cb4"
+    },
+    {
+      "path": "art/square.jpg",
+      "bytes": 312181,
+      "sha256": "624ce576d3f09efd85e4a12d34c29a602056c96c1fba70360f974f4fd6934024"
+    },
+    {
+      "path": "articles/medium-draft.md",
+      "bytes": 750,
+      "sha256": "4e1bb883cbf42d0e74b08ad119977ceaf5f314980ac7acef35441f13963eb911"
+    },
+    {
+      "path": "articles/medium-paste.txt",
+      "bytes": 750,
+      "sha256": "4e1bb883cbf42d0e74b08ad119977ceaf5f314980ac7acef35441f13963eb911"
+    },
+    {
+      "path": "catalog/clip-index.csv",
+      "bytes": 2188,
+      "sha256": "040d8d4af7acb3260c5ecbbb0e291196e6e85ae2d67ba214daed798ca3df3497"
+    },
+    {
+      "path": "catalog/drum-map.csv",
+      "bytes": 158,
+      "sha256": "ee5949764a6e42171b113a12ed1b18e3cb7f97fdcf48a545348cb8fdaf611c5c"
+    },
+    {
+      "path": "catalog/harmonic-events.csv",
+      "bytes": 25142,
+      "sha256": "8f2aeb838b06377c3b255f952e5f5025e9eeb860a7e3f8615b5e814db82c92b8"
+    },
+    {
+      "path": "catalog/note-events.csv",
+      "bytes": 99093,
+      "sha256": "38b1dcc9eddaa0aade5bd1c57790e5afce2644a181ef4af0f301e4bb2c975d42"
+    },
+    {
+      "path": "catalog/patch-recipes.json",
+      "bytes": 1810,
+      "sha256": "80584fcd3db787802c3797409f4da4ac3b7179ec449a2829b7d85b2b349a6727"
+    },
+    {
+      "path": "catalog/release-spec.json",
+      "bytes": 2502,
+      "sha256": "c0fc219f98b217774ba30b41caafce68c88e8d71e822e431a3f086bb8ce53d01"
+    },
+    {
+      "path": "catalog/structural-regions.csv",
+      "bytes": 816,
+      "sha256": "f3898fab6dabfdf62ea6cfdff9191b5e66c5d5881aa0ea4d952bb95f58dd6777"
+    },
+    {
+      "path": "catalog/study-index.csv",
+      "bytes": 1218,
+      "sha256": "6001f8aa848f9d058bc7e2a77419b068ed5c0ef9e743755ba322d022d93b0348"
+    },
+    {
+      "path": "checks/build-metadata.json",
+      "bytes": 387,
+      "sha256": "692d24172bd6b8cdd26182d0b4a85242fcd3d7b0efce0e90e55be7e8b5e2be65"
+    },
+    {
+      "path": "checks/clip-validation.json",
+      "bytes": 309,
+      "sha256": "85425e84ad56b8ce2ee831fbea086f67539e9c2052c619055b1b8e99d8b9166e"
+    },
+    {
+      "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+      "bytes": 81,
+      "sha256": "86d610c2b8e91885fad4a3f4345a787915cf90b4c286d32fd867b6bc33a522c0"
+    },
+    {
+      "path": "checks/media-validation.json",
+      "bytes": 462,
+      "sha256": "96e442960d4e4ecb459c3eacba4abcd2a1b70cf47cd25c33dd86f20d6da3cdd1"
+    },
+    {
+      "path": "clips/z4901-chord-progression-01.mid",
+      "bytes": 271,
+      "sha256": "83881c1954d315db51ae6039973057c8ceb491745a3cbf5ae953df8dadc0197e"
+    },
+    {
+      "path": "clips/z4901-chord-progression-02.mid",
+      "bytes": 271,
+      "sha256": "57470c6d4e1bf6b958ef6d53265673d564fdcf1a00188fd04ddf594692899b5d"
+    },
+    {
+      "path": "clips/z4901-chord-progression-03.mid",
+      "bytes": 172,
+      "sha256": "cd1f739efd892c4144394d636ef683f5d8a0d177af9fea5bb240e3af10e49622"
+    },
+    {
+      "path": "clips/z4901-chord-progression-04.mid",
+      "bytes": 172,
+      "sha256": "14d1aa8a3c760c876de78005d83f18b428e8155939c1919593b4d1905d5d4fbb"
+    },
+    {
+      "path": "clips/z4902-chord-progression-01.mid",
+      "bytes": 271,
+      "sha256": "ea7b416a2c45e2e908d2aef178394fb40a74d36dc1e0faedf3d13460031be05f"
+    },
+    {
+      "path": "clips/z4902-chord-progression-02.mid",
+      "bytes": 271,
+      "sha256": "6ead2f383f66509ff30a69f396a2bbafdc0717ace1abf8e3160fbed6996d761e"
+    },
+    {
+      "path": "clips/z4902-chord-progression-03.mid",
+      "bytes": 172,
+      "sha256": "363cf9f411e363e7784044fedbbe75d5e0e3dec8827c40f3fa62f23fc7aaf856"
+    },
+    {
+      "path": "clips/z4902-chord-progression-04.mid",
+      "bytes": 172,
+      "sha256": "95b3f311bc730f3b9de80ee5e5a332bc65bbeda978fe8c0c38fed313ff319dd8"
+    },
+    {
+      "path": "clips/z4903-chord-progression-01.mid",
+      "bytes": 271,
+      "sha256": "be83da21c7e7539b7d8323104d43865fdf7de5b1c35bac36f82b5fb429e643d2"
+    },
+    {
+      "path": "clips/z4903-chord-progression-02.mid",
+      "bytes": 271,
+      "sha256": "ee54c86683b90ce3a784c58f51d8c690ef85e854c3f8924bc4f14ab64a3fa8b0"
+    },
+    {
+      "path": "clips/z4903-chord-progression-03.mid",
+      "bytes": 172,
+      "sha256": "0cbcf79bb484baeb5ff7a7ba81626b52f3079c8fc301495f4f47795fcb7e513d"
+    },
+    {
+      "path": "clips/z4903-chord-progression-04.mid",
+      "bytes": 172,
+      "sha256": "f77c29b05a4ec872b31d86cb26d204ccd55c70225ec30899793c9701b09fbd57"
+    },
+    {
+      "path": "clips/z4904-chord-progression-01.mid",
+      "bytes": 271,
+      "sha256": "061c17fbed1889a6fe8ef25eda6a8438620eff2f445046a5090c3bdb9c0fb6bd"
+    },
+    {
+      "path": "clips/z4904-chord-progression-02.mid",
+      "bytes": 271,
+      "sha256": "9282bdebb42789704bc3f87474d23919c490ef2f2fc708cb1f0ff1a29c14bc52"
+    },
+    {
+      "path": "clips/z4904-chord-progression-03.mid",
+      "bytes": 172,
+      "sha256": "adac91f801f028021c62b9419a4f44fbd175035e7f97863e74e8e4dd3ef1d7e6"
+    },
+    {
+      "path": "clips/z4904-chord-progression-04.mid",
+      "bytes": 172,
+      "sha256": "0b62fefc75d30395c44e60e622f51a94bad77a072f818a05328f26a35d1d6860"
+    },
+    {
+      "path": "delivery.md",
+      "bytes": 436,
+      "sha256": "ebfba4dee004232c8868a2124b61fb4da8f96b65293299d01e649c739c9952df"
+    },
+    {
+      "path": "downloads/cloud-rap-chord-textures-midi.zip",
+      "bytes": 32432,
+      "sha256": "20e2854ca36dd7d8458c0cdbd99260235db436a1eaff412b9d3683641bc44c22"
+    },
+    {
+      "path": "film/motion-note-roll.png",
+      "bytes": 2507,
+      "sha256": "fda625b5e9d4eec462004be09c4409c173905a168f7dba76c24b41f158379745"
+    },
+    {
+      "path": "film/motion-overlay.png",
+      "bytes": 34984,
+      "sha256": "030165d01a3e95e90dc3570d530cc8dce7733d8c4274a456406f301f8cd45959"
+    },
+    {
+      "path": "film/poster.jpg",
+      "bytes": 253688,
+      "sha256": "eb40719efdb2205d4be46888d9c05b6331b63d9ce06e2a3b7fba53c8285e79c0"
+    },
+    {
+      "path": "film/preview.mp4",
+      "bytes": 879385,
+      "sha256": "142b2aff950437644d7c7d6fef1b300814e1ac5f28d768c35f90c43b554c8ef1"
+    },
+    {
+      "path": "film/preview.vtt",
+      "bytes": 86,
+      "sha256": "66a3a5d04904c48ceef8c1eb6e0698d44a7ec9f80950e2cc21b7dc0f54c12fea"
+    },
+    {
+      "path": "film/video-manifest.json",
+      "bytes": 1229,
+      "sha256": "8b84b6ad54360d8284905cbaed81f992dad60282dcd348a066e5c6b64ead38cc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10018,
+      "sha256": "2b98df5c7fee4fa3d8c71aafa7cc8d0b246e95dfdec646fa96fe9cb84d2aab8b"
+    },
+    {
+      "path": "midi/z4901-cloud-rap-chord-textures-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "18519413250faf4159cc359b4018795d085afdeb2441e3ca3796e92410fc6003"
+    },
+    {
+      "path": "midi/z4901-cloud-rap-chord-textures-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "3ee980a01fc0029a3a2ea79833ba5ef81d7ecdd56498891477cfbd43ef59e5e4"
+    },
+    {
+      "path": "midi/z4901-cloud-rap-chord-textures-opening/drums.mid",
+      "bytes": 2673,
+      "sha256": "719154df8b02544e9054eb3cfec141880450765225c209b5551c87c9d7f055e7"
+    },
+    {
+      "path": "midi/z4901-cloud-rap-chord-textures-opening/principal_motif.mid",
+      "bytes": 799,
+      "sha256": "9da5841bc27079b22b519e5b5b63f67cf2300154a1eb6a64d7ef162fde67b602"
+    },
+    {
+      "path": "midi/z4901-cloud-rap-chord-textures-opening/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "2b4c19641ddf488269ff36f52de54175ea2fac06b62cb1b81a910a1f9f29ea99"
+    },
+    {
+      "path": "midi/z4901-cloud-rap-chord-textures-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "c74787e54a48b079472a8bbc7b4eabab7af9a51983168af74d1932e2357bc087"
+    },
+    {
+      "path": "midi/z4901-cloud-rap-chord-textures-opening/z4901-cloud-rap-chord-textures-opening-combined.mid",
+      "bytes": 5708,
+      "sha256": "399f8f515db7f810c85261dfe00eee2a465fa24f4aa695ae6fee9c92db5692fb"
+    },
+    {
+      "path": "midi/z4902-cloud-rap-chord-textures-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "27f80aea242557c460734e49c63fe33699820d9163c87c81a490c6e954244a8d"
+    },
+    {
+      "path": "midi/z4902-cloud-rap-chord-textures-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "8ce593a7c09e6ef5ab2758b97b7670714b5ae1485dfd485bdf35d463c1a2147e"
+    },
+    {
+      "path": "midi/z4902-cloud-rap-chord-textures-variation/drums.mid",
+      "bytes": 2673,
+      "sha256": "719154df8b02544e9054eb3cfec141880450765225c209b5551c87c9d7f055e7"
+    },
+    {
+      "path": "midi/z4902-cloud-rap-chord-textures-variation/principal_motif.mid",
+      "bytes": 799,
+      "sha256": "23c73d1fe57345c87b695cbef76f8f157f54abec5eda26ad3d57a7ec8d20ac5c"
+    },
+    {
+      "path": "midi/z4902-cloud-rap-chord-textures-variation/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "bbfbe59783e18e9fefe6bf4cad3e60860dc77151173519678560bd4c1a738033"
+    },
+    {
+      "path": "midi/z4902-cloud-rap-chord-textures-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "219de2f87a23543962417a86afa7db94cadefa61fdb336a62faa31d7afddde26"
+    },
+    {
+      "path": "midi/z4902-cloud-rap-chord-textures-variation/z4902-cloud-rap-chord-textures-variation-combined.mid",
+      "bytes": 5708,
+      "sha256": "f55143ec1fbb59d9f1c8948264d35deeee99188021c52b8035f56cdb8093cc0d"
+    },
+    {
+      "path": "midi/z4903-cloud-rap-chord-textures-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "fa85ac816039995fc53597a919266297756221b458c3b41916652d862e3e8b68"
+    },
+    {
+      "path": "midi/z4903-cloud-rap-chord-textures-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "b2273ae42f9f22d01278d260d3b5a08dc6bd111f86da1595e788578c759258d3"
+    },
+    {
+      "path": "midi/z4903-cloud-rap-chord-textures-contrast/drums.mid",
+      "bytes": 2673,
+      "sha256": "719154df8b02544e9054eb3cfec141880450765225c209b5551c87c9d7f055e7"
+    },
+    {
+      "path": "midi/z4903-cloud-rap-chord-textures-contrast/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "bedfac979ffe1f40e43dc94206662a817472256bcc0e4156b1a826f277607fd5"
+    },
+    {
+      "path": "midi/z4903-cloud-rap-chord-textures-contrast/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "11a0658b4699178f3ff02db67e4c78101b8e1c687d68e4bb9eedca3609a30de5"
+    },
+    {
+      "path": "midi/z4903-cloud-rap-chord-textures-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "63a62efef340da6236a096bea84ab02fa6d0d0e005611c8f94c502d6e82845b5"
+    },
+    {
+      "path": "midi/z4903-cloud-rap-chord-textures-contrast/z4903-cloud-rap-chord-textures-contrast-combined.mid",
+      "bytes": 5674,
+      "sha256": "b45ed7ae5f713aa243985000fba8a0443e0199e2b2949f0289e2edd73c989b18"
+    },
+    {
+      "path": "midi/z4904-cloud-rap-chord-textures-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "b82d28472b2010509f0b82482d2b5c85e9bfc780fcbf7eaaaf74228a21155ab6"
+    },
+    {
+      "path": "midi/z4904-cloud-rap-chord-textures-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "14ee78dbacf86e5d4fd560965873591d2f8e47165fb0823afeb2d441ae1817b5"
+    },
+    {
+      "path": "midi/z4904-cloud-rap-chord-textures-return/drums.mid",
+      "bytes": 2673,
+      "sha256": "719154df8b02544e9054eb3cfec141880450765225c209b5551c87c9d7f055e7"
+    },
+    {
+      "path": "midi/z4904-cloud-rap-chord-textures-return/principal_motif.mid",
+      "bytes": 767,
+      "sha256": "8bf7463471f6b599a80d372a344aaf9d9af79e98987424661f25a7683db5452d"
+    },
+    {
+      "path": "midi/z4904-cloud-rap-chord-textures-return/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "da8471eb987031bc9d60d691dd13d343c0e2fd64babab2f253ba0a905163c4e2"
+    },
+    {
+      "path": "midi/z4904-cloud-rap-chord-textures-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "0ab777f4816714f9994a35b7b63d54462040b13802f4424e995d8e18db927797"
+    },
+    {
+      "path": "midi/z4904-cloud-rap-chord-textures-return/z4904-cloud-rap-chord-textures-return-combined.mid",
+      "bytes": 5676,
+      "sha256": "5d67114b3533d6bdbb6b9e0b7556ae10d1aec5b0833122482cd67c4175d4e6b4"
+    },
+    {
+      "path": "preview/cloud-rap-chord-textures-simple-synth-preview.mp3",
+      "bytes": 2108439,
+      "sha256": "12e7510990c0ba7a07375c790147c10b2c5a6b6676e9d95cd29704e5eeeeaf87"
+    },
+    {
+      "path": "preview/preview-manifest.json",
+      "bytes": 1182,
+      "sha256": "4c553e9fa2073587eb42d1be390e20ea82d747390450c3158412cf335b6a612b"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3983,
+      "sha256": "f3dea1788932a04869c70974f29f7299b761070aa0bfda3608de545ae8397461"
+    },
+    {
+      "path": "social/instagram/caption.txt",
+      "bytes": 226,
+      "sha256": "0cb28fba87bfff8a21a97fcdb1e820a7ddfab6f0f7ed8dcab8a6b8b98dab6ae5"
+    },
+    {
+      "path": "social/instagram/portrait.jpg",
+      "bytes": 304919,
+      "sha256": "0bd9a6c1abcd3a719782c3adc44732d3b052fd4debcb2053ffef61436f103206"
+    },
+    {
+      "path": "social/instagram/square.jpg",
+      "bytes": 282587,
+      "sha256": "28573beff78486d1faa9bbe28f1b9ef61cbe59e6eae2d6a8912d421012499c56"
+    },
+    {
+      "path": "social/x/card.jpg",
+      "bytes": 256313,
+      "sha256": "e6665f0f68a79e76648c0f296795435d6433f8f3053759d4bfd16313276e4a19"
+    },
+    {
+      "path": "social/x/post.txt",
+      "bytes": 188,
+      "sha256": "a629963abdd3cc73ea51eaa2692c008af8fbea27d55c0a02dccc86e38e99dc66"
+    },
+    {
+      "path": "tools/build_footwork.py",
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
+    },
+    {
+      "path": "tools/build_release.py",
+      "bytes": 147457,
+      "sha256": "97c986fb7994c8dd519b8f85696af96d32241a668111f4ffe4c3e2c241e1385c"
+    },
+    {
+      "path": "tools/polish_release.py",
+      "bytes": 7763,
+      "sha256": "b656e270626dcd22f2bff72dcc733516775299a975808bc7e674ca19c9a5219a"
+    },
+    {
+      "path": "tools/produce_clips.py",
+      "bytes": 13319,
+      "sha256": "9c307862bf5a80e580912539ae4636d7569ed5db539e95a280023a23ba15b7a0"
+    },
+    {
+      "path": "tools/render_motion_preview.py",
+      "bytes": 7162,
+      "sha256": "e5269d02f53d5eb4c52d07826528ed8651ce8eea2a1d9ca495c440bb75e59791"
+    },
+    {
+      "path": "tools/validate_release.py",
+      "bytes": 13763,
+      "sha256": "c590a3c9e44249ddc1a2d14a048dea0f3e1ef0a232d3b86ea96a0f4eafeff6a5"
+    }
+  ]
+}

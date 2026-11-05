@@ -1,0 +1,26 @@
+{
+  "title": "Cloud Rap Chord Textures",
+  "study": "z4901",
+  "bpm": 88,
+  "source_audio": "preview/cloud-rap-chord-textures-simple-synth-preview.mp3",
+  "source_audio_sha256": "12e7510990c0ba7a07375c790147c10b2c5a6b6676e9d95cd29704e5eeeeaf87",
+  "source_midi": "midi/z4901-cloud-rap-chord-textures-opening/z4901-cloud-rap-chord-textures-opening-combined.mid",
+  "source_midi_sha256": "399f8f515db7f810c85261dfe00eee2a465fa24f4aa695ae6fee9c92db5692fb",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "38b1dcc9eddaa0aade5bd1c57790e5afce2644a181ef4af0f301e4bb2c975d42",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "a5cecd68fcee1c68ad56f1dd248dddb385b448491dfc1e51dd4254454f03a590",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "142b2aff950437644d7c7d6fef1b300814e1ac5f28d768c35f90c43b554c8ef1",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

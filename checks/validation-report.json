@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:10.859023+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z4901-cloud-rap-chord-textures-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "18519413250faf4159cc359b4018795d085afdeb2441e3ca3796e92410fc6003",
+      "errors": []
+    },
+    {
+      "path": "midi/z4901-cloud-rap-chord-textures-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "3ee980a01fc0029a3a2ea79833ba5ef81d7ecdd56498891477cfbd43ef59e5e4",
+      "errors": []
+    },
+    {
+      "path": "midi/z4901-cloud-rap-chord-textures-opening/drums.mid",
+      "bytes": 2673,
+      "sha256": "719154df8b02544e9054eb3cfec141880450765225c209b5551c87c9d7f055e7",
+      "errors": []
+    },
+    {
+      "path": "midi/z4901-cloud-rap-chord-textures-opening/principal_motif.mid",
+      "bytes": 799,
+      "sha256": "9da5841bc27079b22b519e5b5b63f67cf2300154a1eb6a64d7ef162fde67b602",
+      "errors": []
+    },
+    {
+      "path": "midi/z4901-cloud-rap-chord-textures-opening/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "2b4c19641ddf488269ff36f52de54175ea2fac06b62cb1b81a910a1f9f29ea99",
+      "errors": []
+    },
+    {
+      "path": "midi/z4901-cloud-rap-chord-textures-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "c74787e54a48b079472a8bbc7b4eabab7af9a51983168af74d1932e2357bc087",
+      "errors": []
+    },
+    {
+      "path": "midi/z4901-cloud-rap-chord-textures-opening/z4901-cloud-rap-chord-textures-opening-combined.mid",
+      "bytes": 5708,
+      "sha256": "399f8f515db7f810c85261dfe00eee2a465fa24f4aa695ae6fee9c92db5692fb",
+      "errors": []
+    },
+    {
+      "path": "midi/z4902-cloud-rap-chord-textures-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "27f80aea242557c460734e49c63fe33699820d9163c87c81a490c6e954244a8d",
+      "errors": []
+    },
+    {
+      "path": "midi/z4902-cloud-rap-chord-textures-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "8ce593a7c09e6ef5ab2758b97b7670714b5ae1485dfd485bdf35d463c1a2147e",
+      "errors": []
+    },
+    {
+      "path": "midi/z4902-cloud-rap-chord-textures-variation/drums.mid",
+      "bytes": 2673,
+      "sha256": "719154df8b02544e9054eb3cfec141880450765225c209b5551c87c9d7f055e7",
+      "errors": []
+    },
+    {
+      "path": "midi/z4902-cloud-rap-chord-textures-variation/principal_motif.mid",
+      "bytes": 799,
+      "sha256": "23c73d1fe57345c87b695cbef76f8f157f54abec5eda26ad3d57a7ec8d20ac5c",
+      "errors": []
+    },
+    {
+      "path": "midi/z4902-cloud-rap-chord-textures-variation/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "bbfbe59783e18e9fefe6bf4cad3e60860dc77151173519678560bd4c1a738033",
+      "errors": []
+    },
+    {
+      "path": "midi/z4902-cloud-rap-chord-textures-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "219de2f87a23543962417a86afa7db94cadefa61fdb336a62faa31d7afddde26",
+      "errors": []
+    },
+    {
+      "path": "midi/z4902-cloud-rap-chord-textures-variation/z4902-cloud-rap-chord-textures-variation-combined.mid",
+      "bytes": 5708,
+      "sha256": "f55143ec1fbb59d9f1c8948264d35deeee99188021c52b8035f56cdb8093cc0d",
+      "errors": []
+    },
+    {
+      "path": "midi/z4903-cloud-rap-chord-textures-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "fa85ac816039995fc53597a919266297756221b458c3b41916652d862e3e8b68",
+      "errors": []
+    },
+    {
+      "path": "midi/z4903-cloud-rap-chord-textures-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "b2273ae42f9f22d01278d260d3b5a08dc6bd111f86da1595e788578c759258d3",
+      "errors": []
+    },
+    {
+      "path": "midi/z4903-cloud-rap-chord-textures-contrast/drums.mid",
+      "bytes": 2673,
+      "sha256": "719154df8b02544e9054eb3cfec141880450765225c209b5551c87c9d7f055e7",
+      "errors": []
+    },
+    {
+      "path": "midi/z4903-cloud-rap-chord-textures-contrast/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "bedfac979ffe1f40e43dc94206662a817472256bcc0e4156b1a826f277607fd5",
+      "errors": []
+    },
+    {
+      "path": "midi/z4903-cloud-rap-chord-textures-contrast/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "11a0658b4699178f3ff02db67e4c78101b8e1c687d68e4bb9eedca3609a30de5",
+      "errors": []
+    },
+    {
+      "path": "midi/z4903-cloud-rap-chord-textures-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "63a62efef340da6236a096bea84ab02fa6d0d0e005611c8f94c502d6e82845b5",
+      "errors": []
+    },
+    {
+      "path": "midi/z4903-cloud-rap-chord-textures-contrast/z4903-cloud-rap-chord-textures-contrast-combined.mid",
+      "bytes": 5674,
+      "sha256": "b45ed7ae5f713aa243985000fba8a0443e0199e2b2949f0289e2edd73c989b18",
+      "errors": []
+    },
+    {
+      "path": "midi/z4904-cloud-rap-chord-textures-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "b82d28472b2010509f0b82482d2b5c85e9bfc780fcbf7eaaaf74228a21155ab6",
+      "errors": []
+    },
+    {
+      "path": "midi/z4904-cloud-rap-chord-textures-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "14ee78dbacf86e5d4fd560965873591d2f8e47165fb0823afeb2d441ae1817b5",
+      "errors": []
+    },
+    {
+      "path": "midi/z4904-cloud-rap-chord-textures-return/drums.mid",
+      "bytes": 2673,
+      "sha256": "719154df8b02544e9054eb3cfec141880450765225c209b5551c87c9d7f055e7",
+      "errors": []
+    },
+    {
+      "path": "midi/z4904-cloud-rap-chord-textures-return/principal_motif.mid",
+      "bytes": 767,
+      "sha256": "8bf7463471f6b599a80d372a344aaf9d9af79e98987424661f25a7683db5452d",
+      "errors": []
+    },
+    {
+      "path": "midi/z4904-cloud-rap-chord-textures-return/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "da8471eb987031bc9d60d691dd13d343c0e2fd64babab2f253ba0a905163c4e2",
+      "errors": []
+    },
+    {
+      "path": "midi/z4904-cloud-rap-chord-textures-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "0ab777f4816714f9994a35b7b63d54462040b13802f4424e995d8e18db927797",
+      "errors": []
+    },
+    {
+      "path": "midi/z4904-cloud-rap-chord-textures-return/z4904-cloud-rap-chord-textures-return-combined.mid",
+      "bytes": 5676,
+      "sha256": "5d67114b3533d6bdbb6b9e0b7556ae10d1aec5b0833122482cd67c4175d4e6b4",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

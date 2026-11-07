@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/cloud-rap-chord-textures-midi.zip",
-      "bytes": 32432,
-      "sha256": "20e2854ca36dd7d8458c0cdbd99260235db436a1eaff412b9d3683641bc44c22"
+      "bytes": 33419,
+      "sha256": "1d565a968d235404d1d585b0fc8ddaf76f4066290d63ebd35f3be395f85023c8"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10018,
-      "sha256": "2b98df5c7fee4fa3d8c71aafa7cc8d0b246e95dfdec646fa96fe9cb84d2aab8b"
+      "bytes": 10208,
+      "sha256": "a676564f25f9ccdc10e7817bdbc54b1269c988667026883e79406213b3010bde"
     },
     {
       "path": "midi/z4901-cloud-rap-chord-textures-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "5d67114b3533d6bdbb6b9e0b7556ae10d1aec5b0833122482cd67c4175d4e6b4"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/cloud-rap-chord-textures-simple-synth-preview.mp3",
       "bytes": 2108439,
       "sha256": "12e7510990c0ba7a07375c790147c10b2c5a6b6676e9d95cd29704e5eeeeaf87"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3989,
-      "sha256": "fa5c0df9e0460f11d5106a682bdb67714004effc4312a4599bf21d27ee78ba1a"
+      "bytes": 4104,
+      "sha256": "45a91e1b34914a831f62617bb0cd9d7dcc9e65391b213e6c9f354256cdcee954"
     },
     {
       "path": "social/instagram/caption.txt",
